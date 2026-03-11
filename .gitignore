@@ -1,2 +1,9 @@
 # script
 git.sh
+
+# local audit / scratch files
+.codex/
+tmp/
+*.tmp
+*.log
+.DS_Store
