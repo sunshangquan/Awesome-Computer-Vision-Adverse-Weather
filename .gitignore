@@ -7,3 +7,5 @@ tmp/
 *.tmp
 *.log
 .DS_Store
+.paper_cache/
+.paper_exports/
